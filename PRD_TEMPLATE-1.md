@@ -1,4 +1,4 @@
-# Anemia [Required]
+# Anemia
 ## Product Requirements Document
 
 > **TRA460: Digital Health Implementation** | Chalmers University of Technology
@@ -16,8 +16,8 @@
 |---------------------|--------------------------------------------|
 | **Group**           | TRA460_Group_X                             |
 | **Version**         | 1.0                                        |
-| **Date**            | YYYY-MM-DD                                 |
-| **Clinical Mentor** | [Name, Title, Affiliation]                 |
+| **Date**            | 2026-04-17                                |
+| **Clinical Mentor** | [Lena Von Bahr, Title, Affiliation]                 |
 | **Group Members**   | [Name (Program), Name (Program), ...]      |
 
 ---
