@@ -72,15 +72,32 @@ Currently, symptom monitoring in the Department of Hematology and Coagulation re
 <!--
   REQUIRED FOR v1.0
 
-  THIS IS THE MOST IMPORTANT SECTION FOR v1.0.
-  Synthesize what you learned from your clinical mentor meeting(s).
-  - What did you observe or hear?
-  - What is the current workflow / status quo?
-  - Where are the friction points, inefficiencies, or risks?
-  - What surprised you?
+ Current Workflow (Status Quo)
+Transfusion-dependent patients in Hematology come in for blood checks every 1–2 weeks. The standard transfusion threshold is set at Hb 80 g/dL, though this can be adjusted upward (to 90–100 g/dL) based on the physician's judgment, taking into account the patient's general status and comorbidities. When a patient feels unwell before their scheduled visit, they may contact a nurse to signal the need for a transfusion — but the nurse cannot act on this independently and must escalate to a physician. The decision to adjust a patient's threshold ultimately rests with the doctor, and responses vary significantly between physicians.
 
-  Ground this in specifics. Quotes, scenarios, and concrete
-  examples are more valuable than generalizations.
+Key Observations
+
+There is no scientifically validated threshold for when a transfusion is needed — the 80 g/dL figure is a convention, not evidence-based.
+Beyond hemoglobin levels, there are no reliable objective clinical signs to determine transfusion need.
+Decisions are largely driven by physician gut feeling, leading to inconsistency between patients and providers.
+Wearable parameters (e.g. Fitbit-style data) currently have no proven predictive value for transfusion need. Heart rate variability, for instance, reflects a reaction to hemoglobin changes rather than predicting them.
+The goal is to scientifically establish personalized thresholds — proving whether a given patient's threshold should be raised or lowered based on their data.
+
+
+Friction Points & Risks
+
+Patients may be undertreated, living with lower quality of life than necessary due to rigid or inconsistently applied thresholds.
+Nurses are caught in a frustrating middle position — they hear patient complaints but lack the authority to act, creating delays and dissatisfaction.
+Unnecessary clinic visits for blood checks add burden to both patients and the system.
+Risk of iron overload and cardiac strain from over-transfusion if thresholds are set too liberally.
+
+
+Data & Monitoring Considerations
+
+The mentor emphasized collecting as many data points as possible, without overwhelming patients — perhaps once per week, or triggered by active symptom reporting.
+Monitoring should cover quality of life, fatigue, and subjective symptoms alongside clinical values.
+Standardized questionnaires exist but tend to be question-heavy — finding or adapting a validated but lean questionnaire is worth exploring.
+The primary audience for collected data is clinicians and researchers, though patient-facing feedback should be considered carefully to inform without overwhelming.
 -->
 
 ### 1.3 Existing Solutions & Gaps [Required]
