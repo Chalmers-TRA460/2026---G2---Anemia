@@ -1,0 +1,19 @@
+{
+  "name": "Daglig Koll",
+  "short_name": "Daglig Koll",
+  "description": "Symtomloggning för anemipatienter",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#c0392b",
+  "background_color": "#ffffff",
+  "lang": "sv",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
